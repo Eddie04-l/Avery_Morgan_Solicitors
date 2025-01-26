@@ -240,7 +240,7 @@
                 font-size: 3rem;
             }
             .navbar .navbar-brand {
-                font-size: 1.3rem;
+                font-size: 1rem;
                 font-weight: bold;
                 color: #4A90E2 !important; /* Soft Blue for brand */
             }
